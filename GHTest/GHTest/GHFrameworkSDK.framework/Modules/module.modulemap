@@ -1,0 +1,6 @@
+framework module GHFrameworkSDK {
+  umbrella header "GHFrameworkSDK.h"
+
+  export *
+  module * { export * }
+}
